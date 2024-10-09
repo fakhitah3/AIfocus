@@ -1,0 +1,759 @@
+UMUR (BULAN),BANGSA,AGAMA,JANTINA,PENDAPATAN KELUARGA,STATUS PEMAKANAN,DAERAH,PARLIMEN,DUN,JENIS TASKA,TASKA_LOKASI,BERAT (KG),TINGGI (CM),BMI,WEIGHT FOR AGE,HEIGHT FOR AGE
+60,Melayu,Islam,2,1,out of range,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,TASKA Institusi,BANDAR,8.6,72.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+60,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,TASKA Institusi,BANDAR,10.0,76.3,Berlebihan berat badan,Normal,TINGGI NORMAL
+58,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,TASKA Institusi,BANDAR,14.0,82.0,Obes,Further assessment,TINGGI NORMAL
+56,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Institusi,BANDAR,11.4,72.8,Obes,Further assessment,TINGGI NORMAL
+58,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Institusi,BANDAR,11.4,72.8,Obes,Further assessment,TINGGI NORMAL
+60,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Institusi,BANDAR,11.4,72.8,Obes,Further assessment,TINGGI NORMAL
+60,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,TASKA Institusi,BANDAR,,,,,
+56,Melayu,Islam,2,1,Normal,Sepang,SEPANG,SEPANG - DENGKIL,TASKA Institusi,BANDAR,,,,,
+55,Melayu,Islam,1,2,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,TASKA Institusi,BANDAR,,,,,
+57,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,12.8,77.0,Obes,Further assessment,TERBANTUT
+57,Melayu,Islam,1,0,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,11.2,86.0,Berat badan normal,Normal,TINGGI NORMAL
+59,Melayu,Islam,2,2,Malpemakanan,Petaling,SUBANG,SUBANG - KOTA DAMANSARA,TASKA Institusi,BANDAR,,,,,
+60,Melayu,Islam,2,3,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,7.5,69.8,Berat badan normal,Normal,TINGGI NORMAL
+54,Melayu,Islam,1,3,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,TASKA Institusi,BANDAR,10.0,75.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+55,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SERDANG,SERDANG - SERI KEMBANGAN,TASKA Institusi,BANDAR,9.7,74.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+53,Melayu,Islam,2,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,9.1,77.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,11.0,60.0,Obes,Further assessment,TERBANTUT TERUK
+54,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,10.0,75.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,8.9,70.5,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+52,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.0,76.0,Berlebihan berat badan,Normal,TERBANTUT
+53,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,9.8,77.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+59,Cina,Lain-lain,2,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.8,93.8,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+59,Cina,Lain-lain,1,0,Normal,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.0,95.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.2,68.0,Obes,Further assessment,TERBANTUT
+49,Melayu,Islam,2,3,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,TASKA Institusi,BANDAR,9.5,74.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+59,Melayu,Islam,2,2,out of range,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,10.0,100.0,Susut teruk,Further assessment,OUT OF RANGE
+48,Melayu,Islam,2,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,8.3,73.0,Berat badan normal,Normal,TINGGI NORMAL
+47,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BALAKONG,TASKA Institusi,BANDAR,,,,,
+46,Melayu,Islam,1,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,TASKA Institusi,BANDAR,11.5,83.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,0,Malpemakanan,Hulu Selangor,SELAYANG,SELAYANG - RAWANG,TASKA Institusi,BANDAR,10.0,85.0,Berat badan normal,Underweight,TERBANTUT
+53,Melayu,Islam,2,0,Malpemakanan,Klang,KLANG,KLANG - PANDAMARAN,TASKA Institusi,BANDAR,9.4,72.9,Berlebihan berat badan,Normal,TINGGI NORMAL
+53,Melayu,Islam,1,0,Malpemakanan,Klang,KLANG,KLANG - PANDAMARAN,TASKA Institusi,BANDAR,8.5,69.6,Risiko berlebihan berat badan,Normal,TERBANTUT
+49,Melayu,Islam,1,2,Normal,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,10.0,85.0,Susut,Normal,TINGGI NORMAL
+48,Melayu,Islam,2,0,Malpemakanan,Sepang,SEPANG,SEPANG - TANJONG SEPAT,TASKA Institusi,BANDAR,,,,,
+48,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.5,75.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,0,Normal,Hulu Langat,SERDANG,SERDANG - BALAKONG,TASKA Institusi,BANDAR,,,,,
+43,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.5,95.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,,,,,
+55,Melayu,Islam,1,3,Malpemakanan,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,15.0,93.5,Berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+55,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.5,80.5,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+42,India,Hindu,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,,,,,
+52,Melayu,Islam,2,2,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,7.0,80.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+51,Melayu,Islam,1,2,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,7.0,80.0,Susut teruk,Underweight,TINGGI NORMAL
+43,Melayu,Islam,1,3,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,,,,,
+60,India,Lain-lain,2,1,Normal,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.5,93.8,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,3,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+43,Melayu,Islam,1,0,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.0,79.0,Berat badan normal,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.0,75.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+53,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,11.8,88.0,Berat badan normal,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+42,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+50,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,4.2,58.0,Susut,Severely underweight,TERBANTUT TERUK
+44,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,,,,,
+60,Melayu,Islam,2,2,Normal,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,4.5,6.2,Obes,Severely underweight,TERBANTUT TERUK
+43,Melayu,Islam,1,3,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,4.5,58.0,Susut,Severely underweight,TERBANTUT TERUK
+58,Melayu,Islam,1,1,Normal,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,4.2,73.0,Susut teruk,Severely underweight,TERBANTUT
+48,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,7.6,68.8,Risiko berlebihan berat badan,Severely underweight,TERBANTUT TERUK
+54,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,6.2,64.3,Berat badan normal,Severely underweight,TERBANTUT TERUK
+43,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,,,,,
+50,Melayu,Islam,2,1,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,8.2,72.0,Berat badan normal,Normal,TINGGI NORMAL
+44,Melayu,Islam,2,0,Malpemakanan,Klang,KLANG,KLANG - PANDAMARAN,TASKA Institusi,BANDAR,,,,,
+50,Melayu,Islam,2,0,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.0,80.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,9.8,73.3,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+52,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,8.5,70.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+46,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,,,,,
+58,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,8.5,75.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.7,78.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+45,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+44,Melayu,Islam,2,1,Normal,Sepang,SEPANG,SEPANG - DENGKIL,TASKA Institusi,BANDAR,,,,,
+57,Melayu,Islam,1,1,Normal,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,6.7,70.0,Susut,Severely underweight,TERBANTUT
+46,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+50,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,6.3,65.5,Berat badan normal,Underweight,TERBANTUT TERUK
+44,Melayu,Islam,2,0,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,,,,,
+42,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - IJOK,TASKA Institusi,BANDAR,,,,,
+48,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,6.8,68.5,Berat badan normal,Underweight,TERBANTUT
+42,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,,,,,
+42,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - BUKIT MELAWATI,TASKA Institusi,BANDAR,,,,,
+41,Melayu,Islam,1,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,92.5,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.2,100.5,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,8.9,75.9,Berat badan normal,Normal,TERBANTUT
+49,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,7.8,69.6,Berat badan normal,Normal,TERBANTUT
+60,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,9.9,79.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+58,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,8.9,75.9,Berat badan normal,Underweight,TERBANTUT TERUK
+49,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,10.0,70.0,Obes,Further assessment,TERBANTUT
+45,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.0,67.0,Obes,Normal,TERBANTUT TERUK
+50,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,7.4,16.7,Obes,Underweight,TERBANTUT TERUK
+49,Melayu,Islam,1,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,7.4,72.0,Susut,Underweight,TINGGI NORMAL
+43,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.5,77.0,Berlebihan berat badan,Normal,TERBANTUT
+47,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.5,73.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+55,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - IJOK,TASKA Institusi,LUAR BANDAR,9.0,66.0,Obes,Normal,TERBANTUT TERUK
+52,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - JERAM,TASKA Institusi,LUAR BANDAR,6.6,64.2,Berat badan normal,Underweight,TERBANTUT TERUK
+54,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,10.5,75.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+47,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,,,,,
+49,Melayu,Islam,1,1,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,12.0,75.0,Obes,Further assessment,TINGGI NORMAL
+47,Melayu,Islam,1,1,Normal,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,,,,,
+38,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,15.5,98.2,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,2,2,Normal,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - IJOK,TASKA Institusi,BANDAR,8.3,73.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - IJOK,TASKA Institusi,BANDAR,,,,,
+40,Melayu,Islam,2,2,Normal,Kuala Selangor,KUALA SELANGOR,KUALA SELANGOR - IJOK,TASKA Institusi,BANDAR,,,,,
+51,Melayu,Islam,2,2,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,12.0,110.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+46,India,Hindu,1,3,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+40,India,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,,,,,
+50,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,7.0,68.0,Berat badan normal,Severely underweight,TERBANTUT TERUK
+50,Melayu,Islam,2,0,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.2,89.0,Susut,Underweight,TINGGI NORMAL
+38,Melayu,Islam,1,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - DUSUN TUA,TASKA Institusi,BANDAR,,,,,
+59,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,7.0,80.0,Susut teruk,Severely underweight,TINGGI NORMAL
+58,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,10.5,86.5,Berat badan normal,Normal,TINGGI NORMAL
+58,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,9.0,82.0,Susut,Normal,PEMANTAUAN LANJUT
+40,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - DUSUN TUA,TASKA Institusi,BANDAR,,,,,
+54,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,10.8,80.2,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+53,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,17.1,104.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+40,Melayu,Islam,2,3,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,98.0,Susut,Normal,TINGGI NORMAL
+38,Melayu,Islam,1,2,Normal,Hulu Langat,PANDAN,PANDAN - TERATAI,TASKA Di Rumah,BANDAR,8.2,72.0,Berat badan normal,Normal,TINGGI NORMAL
+37,Melayu,Islam,2,1,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,TASKA Institusi,LUAR BANDAR,7.5,72.0,Berat badan normal,Underweight,TINGGI NORMAL
+48,Cina,Kristian,1,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.9,74.1,Berlebihan berat badan,Normal,TINGGI NORMAL
+45,Cina,Buddha,1,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.9,77.7,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+46,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,TASKA Di Rumah,BANDAR,8.0,79.0,Susut,Normal,TINGGI NORMAL
+60,Cina,Lain-lain,1,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.2,74.1,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+54,Melayu,Islam,2,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,8.0,8.6,Obes,Underweight,TERBANTUT TERUK
+51,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,8.5,8.0,Obes,Underweight,TERBANTUT TERUK
+28,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,,,,,
+26,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,,,,,
+49,Melayu,Islam,2,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,8.0,8.0,Obes,Normal,TERBANTUT TERUK
+46,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,7.0,8.0,Obes,Underweight,TERBANTUT TERUK
+44,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,8.0,8.0,Obes,Normal,TERBANTUT TERUK
+38,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,,,,,
+40,Melayu,Islam,2,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,,,,,
+37,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - DUSUN TUA,TASKA Institusi,BANDAR,,,,,
+41,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,,,,,
+48,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,10.2,75.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+53,Melayu,Islam,1,2,Malpemakanan,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,12.0,80.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+46,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,10.0,78.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+56,Melayu,Islam,2,2,Normal,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,7.4,71.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Normal,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,,,,,
+49,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,9.0,78.0,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.2,69.0,Obes,Normal,TERBANTUT TERUK
+49,Melayu,Islam,1,1,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,9.2,69.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+50,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.0,68.9,Berlebihan berat badan,Normal,TERBANTUT
+60,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.2,69.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+53,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,8.1,70.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+60,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,8.7,78.0,Berat badan normal,Underweight,TERBANTUT
+60,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,11.0,83.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+37,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,,,,,
+55,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,10.0,55.0,Obes,Further assessment,TERBANTUT TERUK
+48,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,10.0,50.0,Obes,Further assessment,TERBANTUT TERUK
+43,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,,,,,
+49,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,10.0,50.0,Obes,Further assessment,TERBANTUT TERUK
+38,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,,,,,
+47,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,8.0,80.2,Susut teruk,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+55,Melayu,Islam,1,2,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,11.2,86.5,Berat badan normal,Normal,TINGGI NORMAL
+35,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+36,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+36,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+40,Melayu,Islam,2,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+40,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+39,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+39,Melayu,Islam,2,2,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+40,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+50,Melayu,Islam,1,0,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.7,80.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+41,Melayu,Islam,1,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+45,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.9,83.0,Berat badan normal,Underweight,TERBANTUT
+51,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.7,93.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+49,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.3,89.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,99.0,Susut,Normal,TINGGI NORMAL
+52,Melayu,Islam,2,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.3,94.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,9.0,110.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+47,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.2,89.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,79.0,Berlebihan berat badan,Normal,TERBANTUT
+51,Melayu,Islam,2,1,Normal,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,8.0,79.0,Susut,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,8.0,65.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+60,Melayu,Islam,1,2,Malpemakanan,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,7.7,62.0,Obes,Severely underweight,TERBANTUT TERUK
+57,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,7.4,69.0,Berat badan normal,Underweight,TERBANTUT
+51,Orang Asli,Islam,2,2,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,98.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,1,2,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,7.0,80.0,Susut teruk,Underweight,TINGGI NORMAL
+39,Melayu,Islam,2,4,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.5,90.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+42,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,79.0,Berlebihan berat badan,Normal,TERBANTUT
+51,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,88.0,Berlebihan berat badan,Normal,TERBANTUT
+44,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,75.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+33,Melayu,Islam,2,4,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,,,,,
+43,Melayu,Islam,2,2,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.0,94.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+44,Melayu,Islam,1,2,Malpemakanan,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.0,74.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+53,Melayu,Islam,2,2,Malpemakanan,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,8.3,76.0,Berat badan normal,Underweight,TERBANTUT
+49,Melayu,Islam,1,2,Malpemakanan,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.7,76.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+44,Melayu,Islam,2,2,Normal,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.0,77.0,Berat badan normal,Normal,TINGGI NORMAL
+44,Melayu,Islam,2,2,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.2,76.0,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,2,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.8,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,104.0,Susut,Normal,TINGGI NORMAL
+31,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,,,,,
+55,Melayu,Islam,2,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,11.8,88.0,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+44,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.2,75.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+45,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+59,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,17.9,89.0,Obes,Further assessment,TINGGI NORMAL
+37,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,16.1,97.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+32,Melayu,Islam,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.0,72.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,82.0,Berat badan normal,Underweight,TERBANTUT TERUK
+33,Melayu,Islam,1,1,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,,,,,
+47,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.9,90.0,Susut teruk,Underweight,TINGGI NORMAL
+48,Melayu,Islam,2,1,Normal,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,8.6,77.0,Berat badan normal,Normal,TINGGI NORMAL
+31,Melayu,Islam,1,3,Normal,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,,,,,
+40,Cina,Buddha,1,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,17.0,120.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+40,Cina,Buddha,2,1,Normal,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,13.0,93.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,1,1,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.8,46.8,Obes,Normal,TERBANTUT TERUK
+33,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,8.9,40.0,Obes,Normal,TERBANTUT TERUK
+29,Melayu,Islam,2,3,Normal,Hulu Langat,PANDAN,PANDAN - TERATAI,TASKA Di Rumah,BANDAR,8.2,71.0,Berat badan normal,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,,,,,
+50,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,11.0,83.0,Berat badan normal,Further assessment,TINGGI NORMAL
+28,Melayu,Islam,2,1,Normal,Hulu Langat,PANDAN,PANDAN - TERATAI,TASKA Di Rumah,BANDAR,8.5,73.0,Berat badan normal,Normal,TINGGI NORMAL
+29,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Severely underweight,TERBANTUT
+51,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.0,8.5,Obes,Underweight,TERBANTUT TERUK
+32,Melayu,Islam,1,2,Normal,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,,,,,
+41,Melayu,Islam,2,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,96.0,Susut,Normal,PEMANTAUAN LANJUT
+49,Cina,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,83.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+46,Cina,Lain-lain,2,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,82.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+45,Cina,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,10.7,80.7,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+49,Cina,Lain-lain,2,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,81.6,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+47,Lain-lain,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,82.5,Berlebihan berat badan,Normal,TINGGI NORMAL
+47,Lain-lain,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,83.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+44,Lain-lain,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,78.0,Obes,Normal,TERBANTUT
+30,Melayu,Islam,2,1,Normal,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,,,,,
+28,Melayu,Islam,1,3,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,,,,,
+28,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,,,,,
+44,Cina,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.7,84.5,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+50,Cina,Lain-lain,2,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.0,85.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+57,Lain-lain,Lain-lain,2,0,Normal,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,91.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Lain-lain,Lain-lain,1,0,Normal,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.5,91.0,Berat badan normal,Normal,TINGGI NORMAL
+57,Lain-lain,Islam,2,0,Normal,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.0,92.0,Berat badan normal,Normal,TINGGI NORMAL
+59,Lain-lain,Lain-lain,2,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.8,13.5,Obes,Further assessment,TERBANTUT TERUK
+59,Lain-lain,Lain-lain,2,0,Normal,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,12.0,92.7,Berat badan normal,Normal,TINGGI NORMAL
+54,Lain-lain,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.0,90.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+55,Lain-lain,Lain-lain,1,0,Malpemakanan,Petaling,KELANA JAYA,KELANA JAYA - SERI SETIA,TASKA Institusi,BANDAR,13.0,90.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+59,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.3,85.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+37,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,10.5,80.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+37,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.0,65.0,Obes,Normal,TERBANTUT TERUK
+47,Melayu,Islam,2,2,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,8.4,79.0,Berat badan normal,Underweight,TINGGI NORMAL
+52,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,13.0,97.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,12.0,98.0,Susut,Underweight,TINGGI NORMAL
+32,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,12.0,92.0,Berat badan normal,Normal,TINGGI NORMAL
+29,Melayu,Islam,2,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,8.5,82.0,Susut,Normal,TINGGI NORMAL
+32,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.0,72.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+23,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,13.0,86.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+28,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,TASKA Di Rumah,BANDAR,,,,,
+34,Melayu,Islam,1,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,TASKA Di Rumah,BANDAR,,,,,
+40,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,7.8,71.3,Berat badan normal,Normal,TINGGI NORMAL
+49,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,12.0,85.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+37,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,5.6,69.0,Susut teruk,Severely underweight,TERBANTUT
+31,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+51,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.2,74.1,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+54,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,12.0,85.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+30,Cina,Kristian,2,0,Normal,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+27,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+26,Cina,Kristian,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+41,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,7.9,83.0,Susut teruk,Underweight,TINGGI NORMAL
+39,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,7.4,79.0,Susut teruk,Underweight,TINGGI NORMAL
+42,Melayu,Islam,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,8.6,92.0,Susut teruk,Underweight,PEMANTAUAN LANJUT
+31,Cina,Buddha,1,0,Normal,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+32,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+32,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,,,,,
+48,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,11.3,83.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+47,Melayu,Islam,2,1,Malpemakanan,Subang Jaya,SERDANG,SERDANG - SERI KEMBANGAN,TASKA Institusi,BANDAR,8.5,89.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+38,Melayu,Islam,2,3,Normal,Subang Jaya,SERDANG,SERDANG - SERI KEMBANGAN,TASKA Institusi,BANDAR,8.0,73.0,Berat badan normal,Normal,TINGGI NORMAL
+36,Melayu,Islam,2,1,Malpemakanan,Subang Jaya,SERDANG,SERDANG - SERI KEMBANGAN,TASKA Institusi,BANDAR,11.0,76.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+32,Melayu,Islam,1,1,Malpemakanan,Kuala Langat,SEPANG,SEPANG - DENGKIL,TASKA Institusi,LUAR BANDAR,,,,,
+36,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,7.5,66.0,Risiko berlebihan berat badan,Normal,TERBANTUT TERUK
+37,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,6.9,69.0,Berat badan normal,Underweight,TINGGI NORMAL
+49,Cina,Buddha,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.0,72.8,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+46,India,Hindu,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,9.0,100.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+46,India,Hindu,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,10.0,71.3,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+44,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,11.0,75.0,Obes,Further assessment,TINGGI NORMAL
+53,Melayu,Islam,2,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Di Rumah,BANDAR,11.7,80.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+34,Melayu,Islam,1,2,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,13.2,94.0,Berat badan normal,Normal,TINGGI NORMAL
+35,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - HULU KELANG,TASKA Institusi,BANDAR,14.5,96.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+30,Melayu,Islam,1,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,,,,,
+31,Melayu,Islam,2,1,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,TASKA Institusi,BANDAR,,,,,
+60,Melayu,Islam,2,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,12.0,80.0,Obes,Normal,TERBANTUT TERUK
+49,Melayu,Islam,2,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,8.0,70.0,Risiko berlebihan berat badan,Severely underweight,TERBANTUT TERUK
+54,Melayu,Islam,2,0,Normal,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,12.0,95.0,Berat badan normal,Normal,TINGGI NORMAL
+30,Melayu,Islam,1,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,,,,,
+28,Melayu,Islam,2,0,Normal,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,,,,,
+32,Melayu,Islam,1,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,,,,,
+36,Melayu,Islam,1,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,10.0,90.0,Susut teruk,Further assessment,PEMANTAUAN LANJUT
+56,Melayu,Islam,2,0,Malpemakanan,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,12.0,110.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+60,Melayu,Islam,2,0,Normal,Sepang,SEPANG,SEPANG - SUNGAI PELEK,TASKA Institusi,BANDAR,11.0,90.0,Berat badan normal,Normal,TINGGI NORMAL
+29,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,98.0,Susut,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,1,Malpemakanan,Klang,KAPAR,KAPAR - SEMENTA,TASKA Institusi,LUAR BANDAR,6.6,70.0,Susut,Underweight,TINGGI NORMAL
+34,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,BANDAR,,,,,
+43,Melayu,Islam,2,1,Malpemakanan,Petaling,PETALING JAYA UTARA,PETALING JAYA UTARA - DAMANSARA UTAMA,TASKA Institusi,BANDAR,8.4,72.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+55,Melayu,Islam,1,1,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,11.0,92.0,Susut,Normal,TINGGI NORMAL
+33,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.6,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+36,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,88.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+42,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.3,91.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+47,Melayu,Islam,1,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.5,98.0,Berat badan normal,Normal,TINGGI NORMAL
+41,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.9,84.0,Berat badan normal,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.6,84.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.5,84.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+39,Melayu,Islam,2,1,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,7.7,71.5,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,1,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,8.5,78.0,Berat badan normal,Normal,TINGGI NORMAL
+30,Melayu,Islam,2,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,,,,,
+32,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,,,,,
+35,Melayu,Islam,1,1,Malpemakanan,Subang Jaya,SUBANG,SUBANG - PAYA JARAS,TASKA Institusi,BANDAR,6.2,61.0,Berat badan normal,Severely underweight,TERBANTUT TERUK
+35,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,10.8,79.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+32,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,TASKA Institusi,BANDAR,9.8,73.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Melayu,Islam,1,2,Malpemakanan,Sepang,SEPANG,SEPANG - DENGKIL,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.4,85.0,Obes,Further assessment,PEMANTAUAN LANJUT
+23,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.3,71.1,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+22,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+27,Melayu,Islam,1,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Severely underweight,TERBANTUT
+23,India,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Underweight,TINGGI NORMAL
+27,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+48,Orang Asli,Islam,2,4,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,90.0,Berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+50,Melayu,Islam,1,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.6,98.0,Berat badan normal,Underweight,TINGGI NORMAL
+23,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+22,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+28,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.9,74.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+28,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,15.0,96.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+27,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Severely underweight,TERBANTUT
+20,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,11.9,86.5,Risiko berlebihan berat badan,Normal,TERBANTUT
+49,Melayu,Islam,2,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.9,97.5,Berat badan normal,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,21.4,95.5,Obes,Further assessment,TINGGI NORMAL
+37,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,19.0,10.0,Obes,Further assessment,TERBANTUT TERUK
+23,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,13.3,91.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+19,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Severely underweight,TERBANTUT
+19,Melayu,Islam,1,2,Normal,Hulu Langat,PANDAN,PANDAN - TERATAI,TASKA Di Rumah,BANDAR,,,,,
+23,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,14.1,92.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+21,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Underweight,TINGGI NORMAL
+23,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+19,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+24,Lain-lain,Islam,2,0,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Underweight,TINGGI NORMAL
+22,Melayu,Islam,2,1,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,TASKA Institusi,BANDAR,13.0,93.0,Berat badan normal,Normal,TINGGI NORMAL
+19,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+47,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,20.0,108.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+47,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,103.0,Susut,Further assessment,PEMANTAUAN LANJUT
+46,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,7.0,82.0,Susut teruk,Severely underweight,TINGGI NORMAL
+48,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.2,91.0,Susut,Severely underweight,TINGGI NORMAL
+43,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,7.0,86.0,Susut teruk,Severely underweight,PEMANTAUAN LANJUT
+22,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,13.0,89.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,75.0,Obes,Normal,TERBANTUT TERUK
+42,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.8,95.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,88.5,Berat badan normal,Underweight,TERBANTUT
+53,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,92.0,Susut,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,90.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+42,Melayu,Islam,2,4,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,89.4,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,17.1,95.4,Obes,Further assessment,TINGGI NORMAL
+53,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.5,85.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+52,Melayu,Islam,1,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,95.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,85.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+47,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,82.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+47,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,21.4,99.4,Obes,Further assessment,TINGGI NORMAL
+50,Melayu,Islam,1,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,17.0,97.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+48,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.6,107.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.8,86.0,Obes,Normal,TERBANTUT
+50,Melayu,Islam,1,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.1,100.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,98.0,Berat badan normal,Normal,TINGGI NORMAL
+46,Melayu,Islam,2,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.5,83.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+51,Melayu,Islam,2,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.6,85.0,Berat badan normal,Underweight,TERBANTUT
+53,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.6,98.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,17.0,95.0,Obes,Further assessment,TINGGI NORMAL
+50,Melayu,Islam,1,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,86.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+40,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,88.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,86.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+51,Melayu,Islam,1,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,90.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,102.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,104.0,Susut teruk,Underweight,TINGGI NORMAL
+43,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,7.0,77.0,Susut teruk,Severely underweight,TINGGI NORMAL
+30,Melayu,Islam,1,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.5,77.5,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+49,Melayu,Islam,1,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,91.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Melayu,Islam,2,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,77.0,Berlebihan berat badan,Underweight,TERBANTUT TERUK
+42,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.8,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,104.0,Susut teruk,Underweight,TINGGI NORMAL
+48,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,104.0,Susut teruk,Underweight,TINGGI NORMAL
+50,Orang Asli,Lain-lain,2,4,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,98.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,1,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.6,100.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,2,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,98.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+43,Melayu,Islam,2,1,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.2,93.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+47,Melayu,Islam,2,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.6,85.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+51,Melayu,Islam,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.2,98.0,Susut,Normal,TINGGI NORMAL
+52,Melayu,Islam,2,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.8,97.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,90.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,90.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+44,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,92.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Melayu,Islam,2,3,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.1,87.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.6,89.5,Susut,Underweight,TINGGI NORMAL
+45,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,88.1,Risiko berlebihan berat badan,Normal,TERBANTUT
+53,Melayu,Islam,2,3,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.4,95.0,Berat badan normal,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,3,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.8,92.0,Berat badan normal,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.4,99.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,2,3,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.5,84.0,Berat badan normal,Severely underweight,TERBANTUT
+47,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.1,87.0,Berat badan normal,Underweight,TERBANTUT
+47,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.9,101.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+48,Melayu,Islam,1,4,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,86.5,Risiko berlebihan berat badan,Normal,TERBANTUT
+49,Melayu,Islam,2,2,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.4,91.5,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,91.0,Berat badan normal,Underweight,TINGGI NORMAL
+53,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SABAK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.5,88.0,Risiko berlebihan berat badan,Normal,TERBANTUT TERUK
+38,Melayu,Islam,1,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.3,87.0,Berat badan normal,Underweight,TINGGI NORMAL
+41,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,110.0,Susut,Normal,TINGGI NORMAL
+32,Melayu,Islam,1,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.9,86.5,Berat badan normal,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,1,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.4,86.0,Berat badan normal,Normal,TINGGI NORMAL
+38,Melayu,Islam,1,2,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - KAJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,89.0,Berat badan normal,Normal,TINGGI NORMAL
+40,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.9,89.5,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+40,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.1,96.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+39,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,110.0,Susut,Normal,TINGGI NORMAL
+38,Melayu,Islam,1,2,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.1,83.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+43,Melayu,Islam,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.5,94.0,Susut,Underweight,TINGGI NORMAL
+34,Melayu,Islam,1,2,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.3,83.0,Berat badan normal,Normal,TINGGI NORMAL
+32,Melayu,Islam,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.5,80.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+30,Melayu,Islam,2,4,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.2,74.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+41,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.5,85.0,Susut,Severely underweight,TERBANTUT
+42,Melayu,Islam,2,2,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.2,94.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,98.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,92.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+45,Melayu,Islam,2,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.8,93.5,Berlebihan berat badan,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.0,92.5,Obes,Further assessment,TINGGI NORMAL
+46,Melayu,Islam,1,3,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,97.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+33,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,101.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+36,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,79.0,Berlebihan berat badan,Normal,TERBANTUT
+45,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,18.0,100.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+51,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,85.0,Berat badan normal,Underweight,TERBANTUT TERUK
+35,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,90.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+47,Melayu,Islam,2,2,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.7,92.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,95.0,Berat badan normal,Underweight,TINGGI NORMAL
+42,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.3,80.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+39,Melayu,Islam,2,2,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.9,87.0,Berat badan normal,Underweight,TERBANTUT
+40,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.9,99.0,Berat badan normal,Further assessment,TINGGI NORMAL
+50,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,95.0,Berat badan normal,Underweight,TERBANTUT
+32,Melayu,Islam,1,2,Normal,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,9.1,77.0,Berat badan normal,Normal,TINGGI NORMAL
+38,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.5,93.0,Susut,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,99.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,95.2,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,3,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,103.6,Berat badan normal,Normal,TINGGI NORMAL
+44,Orang Asli,Lain-lain,1,2,Normal,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.9,85.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,2,2,Malpemakanan,Sepang,SEPANG,SEPANG - TANJONG SEPAT,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,95.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+40,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,85.0,11.1,Obes,Further assessment,TERBANTUT TERUK
+45,Melayu,Islam,2,1,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.8,91.6,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,99.0,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,94.0,Berat badan normal,Normal,TINGGI NORMAL
+48,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,90.0,Obes,Further assessment,TERBANTUT
+49,Melayu,Islam,2,3,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.2,97.6,Susut,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,1,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.3,91.6,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.9,94.8,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,104.0,Susut,Further assessment,PEMANTAUAN LANJUT
+46,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.9,106.0,Berat badan normal,Further assessment,TINGGI NORMAL
+51,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,87.5,Berlebihan berat badan,Normal,TERBANTUT TERUK
+47,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.0,86.0,Susut,Severely underweight,TERBANTUT
+43,Melayu,Islam,2,1,Normal,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,93.5,Susut,Underweight,TINGGI NORMAL
+53,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,88.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,88.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,2,2,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,88.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.8,93.6,Berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.6,88.0,Berat badan normal,Underweight,TERBANTUT TERUK
+34,Melayu,Islam,2,2,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,93.2,Berat badan normal,Normal,TINGGI NORMAL
+39,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.3,81.0,Berlebihan berat badan,Normal,TERBANTUT
+40,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.0,72.0,Berlebihan berat badan,Underweight,TERBANTUT TERUK
+40,Melayu,Islam,2,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.9,92.0,Susut,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.6,96.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+47,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.7,97.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+47,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.4,89.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+50,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.3,95.3,Berat badan normal,Normal,TINGGI NORMAL
+34,Melayu,Islam,2,2,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,90.0,Berat badan normal,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.1,89.5,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+53,Melayu,Islam,2,1,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.1,90.2,Berlebihan berat badan,Normal,TINGGI NORMAL
+51,Melayu,Islam,1,1,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.8,94.2,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,2,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,99.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.1,99.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+39,Melayu,Islam,1,3,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.9,86.5,Berat badan normal,Normal,TINGGI NORMAL
+25,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,11.1,88.0,Berat badan normal,Underweight,TERBANTUT
+45,Melayu,Islam,1,1,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,86.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,93.0,Susut,Underweight,TINGGI NORMAL
+42,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,80.0,Berlebihan berat badan,Normal,TERBANTUT
+53,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,85.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+42,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,83.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+34,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,85.0,Berat badan normal,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.0,90.0,Susut teruk,Underweight,TINGGI NORMAL
+38,Melayu,Islam,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.3,95.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,1,1,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.1,92.0,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.0,90.0,Susut,Underweight,TINGGI NORMAL
+42,Melayu,Islam,2,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - BATANG KALI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,82.0,Berat badan normal,Normal,TERBANTUT
+51,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.5,93.4,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+53,Iban,Islam,1,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,98.0,Susut,Underweight,TINGGI NORMAL
+15,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,12.2,85.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+17,Melayu,Islam,1,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,64.6,Berat badan normal,Severely underweight,TERBANTUT TERUK
+15,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.5,78.0,Susut,Normal,TINGGI NORMAL
+20,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+20,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+30,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.7,73.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+18,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+17,Tagaas,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.5,80.0,Susut,Normal,TINGGI NORMAL
+23,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,12.0,83.0,Berlebihan berat badan,Normal,TERBANTUT
+25,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.9,74.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+13,Melayu,Islam,1,0,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Institusi,BANDAR,11.2,84.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+18,Melayu,Islam,2,0,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Institusi,BANDAR,6.6,64.6,Berat badan normal,Underweight,TERBANTUT TERUK
+17,Melayu,Islam,1,0,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,10.0,83.0,Berat badan normal,Normal,TINGGI NORMAL
+28,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+15,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.8,83.0,Berat badan normal,Normal,TINGGI NORMAL
+12,Melayu,Islam,2,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.0,78.0,Susut,Underweight,TINGGI NORMAL
+14,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,14.5,88.0,Berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+11,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,7.8,76.2,Susut,Normal,TINGGI NORMAL
+38,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.5,95.5,Berat badan normal,Normal,TINGGI NORMAL
+11,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,7.8,69.6,Berat badan normal,Normal,TINGGI NORMAL
+12,Melayu,Islam,1,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,64.6,Berat badan normal,Severely underweight,TERBANTUT TERUK
+12,Melayu,Islam,2,3,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,64.6,Berat badan normal,Underweight,TERBANTUT TERUK
+13,Melayu,Islam,1,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,64.6,Berat badan normal,Severely underweight,TERBANTUT TERUK
+10,Melayu,Islam,2,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,64.6,Berat badan normal,Underweight,TERBANTUT TERUK
+8,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.0,85.4,Susut teruk,Normal,PEMANTAUAN LANJUT
+15,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,13.0,85.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+9,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.0,82.0,Susut,Normal,TINGGI NORMAL
+13,Melayu,Islam,1,3,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,75.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+8,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,67.2,Berat badan normal,Underweight,TERBANTUT
+19,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+22,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,12.0,86.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+27,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.9,74.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+26,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.9,74.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+27,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+40,Cina,Buddha,1,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,14.0,91.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+21,India,Hindu,1,0,Normal,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,10.0,75.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+21,India,Hindu,2,0,Normal,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,11.5,87.0,Berat badan normal,Normal,TINGGI NORMAL
+34,Kadazan,Kristian,1,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,16.0,91.0,Obes,Further assessment,TINGGI NORMAL
+52,Cina,Buddha,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - SERI SERDANG,TASKA Institusi,BANDAR,18.0,120.0,Susut,Normal,PEMANTAUAN LANJUT
+25,Melayu,Islam,2,3,Normal,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,11.0,89.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Cina,Buddha,2,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,15.0,95.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+8,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,10.3,79.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+11,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,11.3,83.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+8,Melayu,Islam,2,0,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,8.6,76.5,Berat badan normal,Normal,TINGGI NORMAL
+8,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,6.9,71.0,Susut,Severely underweight,TERBANTUT TERUK
+8,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,9.4,73.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+23,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,9.5,76.8,Risiko berlebihan berat badan,Normal,TERBANTUT
+24,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Underweight,TINGGI NORMAL
+29,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,HULU LANGAT,HULU LANGAT - SEMENYIH,TASKA Institusi,BANDAR,14.0,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+23,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.9,74.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+18,Melayu,Islam,1,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Severely underweight,TERBANTUT
+28,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.9,74.2,Risiko berlebihan berat badan,Normal,TERBANTUT
+21,Melayu,Islam,1,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.5,69.0,Susut,Severely underweight,TERBANTUT
+25,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,12.0,83.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+8,Melayu,Islam,1,0,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,7.8,69.6,Berat badan normal,Normal,TERBANTUT
+18,Melayu,Islam,2,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,6.6,64.6,Berat badan normal,Underweight,TERBANTUT TERUK
+16,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,16.8,87.0,Obes,Further assessment,TINGGI NORMAL
+38,Cina,Buddha,2,1,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,13.2,91.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,0,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,13.8,98.0,Berat badan normal,Normal,TINGGI NORMAL
+15,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,9.1,79.0,Berat badan normal,Underweight,TERBANTUT
+51,Melayu,Islam,2,2,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,13.0,93.9,Berat badan normal,Normal,TERBANTUT
+5,Melayu,Islam,1,0,Normal,Gombak,GOMBAK,GOMBAK - BATU CAVES,TASKA Institusi,LUAR BANDAR,,,,,
+7,Melayu,Islam,2,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.0,71.0,Berat badan normal,Normal,TINGGI NORMAL
+8,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.0,70.0,Berat badan normal,Normal,TINGGI NORMAL
+24,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,12.0,86.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+8,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,13.0,85.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+17,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,8.9,79.0,Berat badan normal,Underweight,TERBANTUT
+21,Melayu,Islam,2,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.6,87.5,Berat badan normal,Normal,TINGGI NORMAL
+29,Melayu,Islam,2,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.8,85.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+22,Melayu,Islam,1,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,9.2,78.0,Berat badan normal,Normal,TINGGI NORMAL
+19,Melayu,Islam,1,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,8.4,76.0,Berat badan normal,Normal,TINGGI NORMAL
+36,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.1,90.5,Berlebihan berat badan,Normal,TERBANTUT
+38,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.8,88.5,Berat badan normal,Normal,TERBANTUT
+27,Melayu,Islam,2,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.8,98.0,Berat badan normal,Normal,TINGGI NORMAL
+40,Melayu,Islam,2,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.3,91.0,Berat badan normal,Normal,TINGGI NORMAL
+28,Melayu,Islam,1,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.1,96.0,Berat badan normal,Further assessment,PEMANTAUAN LANJUT
+33,Melayu,Islam,1,2,Malpemakanan,Hulu Langat,PANDAN,PANDAN - TERATAI,TASKA Di Rumah,BANDAR,11.1,80.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+23,Melayu,Islam,2,1,Malpemakanan,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,98.0,Susut,Normal,TINGGI NORMAL
+24,Melayu,Islam,2,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.3,89.0,Berat badan normal,Normal,TINGGI NORMAL
+35,Melayu,Islam,2,2,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.1,99.5,Berat badan normal,Normal,TINGGI NORMAL
+41,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,89.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+39,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,82.0,10.7,Obes,Further assessment,TERBANTUT TERUK
+40,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,83.0,11.0,Obes,Further assessment,TERBANTUT TERUK
+32,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,111.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+30,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,80.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+46,Melayu,Islam,2,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - MORIB,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,91.0,Berat badan normal,Normal,TINGGI NORMAL
+39,Melayu,Islam,1,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,92.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+37,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.1,97.6,Susut,Normal,TINGGI NORMAL
+37,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,88.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+33,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.0,88.0,Susut,Underweight,TINGGI NORMAL
+52,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.6,101.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,19.3,110.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+52,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.8,99.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.5,88.0,Berat badan normal,Underweight,TERBANTUT TERUK
+48,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.1,102.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+48,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,21.6,112.0,Berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+48,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.9,93.0,Berat badan normal,Underweight,TERBANTUT
+47,Melayu,Islam,1,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,102.0,Berat badan normal,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.7,92.0,Berat badan normal,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,2,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,102.0,Berat badan normal,Normal,TINGGI NORMAL
+45,Melayu,Islam,1,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.8,94.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Melayu,Islam,1,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.6,98.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,2,1,Normal,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.2,99.0,Berat badan normal,Normal,TINGGI NORMAL
+38,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.7,89.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+33,Melayu,Islam,1,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.9,85.5,Berat badan normal,Normal,TINGGI NORMAL
+37,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.4,87.0,Berat badan normal,Normal,TINGGI NORMAL
+40,Melayu,Islam,1,3,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.9,97.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,1,1,Normal,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,103.0,Berat badan normal,Normal,TINGGI NORMAL
+30,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.6,89.0,Susut,Underweight,TINGGI NORMAL
+45,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,17.0,103.5,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+30,Melayu,Islam,1,2,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.5,83.0,Berat badan normal,Normal,TERBANTUT
+48,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,96.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.9,97.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.1,90.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,16.0,102.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,3,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.1,87.0,Berat badan normal,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.5,96.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,2,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,92.3,Berat badan normal,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.8,87.8,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+30,Melayu,Islam,2,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,87.5,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+33,Melayu,Islam,1,1,Normal,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.1,90.0,Berat badan normal,Normal,TINGGI NORMAL
+32,Melayu,Islam,1,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.6,82.0,Obes,Normal,TERBANTUT
+27,Melayu,Islam,1,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.5,82.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+40,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,96.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+46,Melayu,Islam,1,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.7,96.8,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+48,Melayu,Islam,2,2,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,95.0,Berat badan normal,Normal,TINGGI NORMAL
+50,Melayu,Islam,1,2,Normal,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,101.0,Berat badan normal,Normal,TINGGI NORMAL
+52,Melayu,Islam,1,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.0,95.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+42,Melayu,Islam,1,1,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.8,94.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,104.0,Susut,Normal,TINGGI NORMAL
+30,Melayu,Islam,1,2,Normal,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.5,89.0,Berat badan normal,Normal,TINGGI NORMAL
+34,Melayu,Islam,2,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.4,89.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+44,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,96.0,Berat badan normal,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,1.0,93.0,Susut teruk,Severely underweight,TINGGI NORMAL
+44,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,98.0,Susut,Normal,PEMANTAUAN LANJUT
+45,Melayu,Islam,1,3,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,104.0,Susut,Normal,TINGGI NORMAL
+51,Melayu,Islam,2,3,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,93.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+45,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,105.0,Susut,Normal,TINGGI NORMAL
+39,Melayu,Islam,2,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,105.0,Berat badan normal,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.4,97.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+34,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,97.0,Risiko berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+41,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.6,105.0,Berat badan normal,Normal,TINGGI NORMAL
+41,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.1,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,1,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,92.0,Susut,Further assessment,PEMANTAUAN LANJUT
+41,Melayu,Islam,1,4,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.6,93.0,Berat badan normal,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.6,90.0,Berat badan normal,Normal,TINGGI NORMAL
+37,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.3,92.0,Berat badan normal,Normal,TINGGI NORMAL
+34,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,92.0,Susut,Further assessment,PEMANTAUAN LANJUT
+38,Melayu,Islam,1,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.5,100.0,Berat badan normal,Normal,TINGGI NORMAL
+39,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,105.0,Susut,Normal,TINGGI NORMAL
+30,Melayu,Islam,1,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.3,102.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+41,Melayu,Islam,2,1,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - SIJANGKANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,90.0,Berat badan normal,Normal,TINGGI NORMAL
+33,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,97.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+34,Melayu,Islam,2,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.2,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+33,Melayu,Islam,1,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,913.8,92.0,Obes,Further assessment,TINGGI NORMAL
+32,Melayu,Islam,1,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.3,96.0,Susut,Normal,TINGGI NORMAL
+36,Melayu,Islam,2,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,17.4,103.3,Risiko berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+35,Melayu,Islam,2,1,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,91.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+37,Melayu,Islam,2,2,Malpemakanan,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,96.2,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+7,Melayu,Islam,2,3,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,7.6,73.4,Berat badan normal,Normal,TINGGI NORMAL
+40,Melayu,Islam,1,1,Normal,Hulu Langat,SERDANG,SERDANG - BANGI,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,93.0,Berat badan normal,Normal,TINGGI NORMAL
+53,Melayu,Islam,1,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,19.6,114.0,Berat badan normal,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,2,2,Normal,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.6,94.0,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,2,Malpemakanan,Petaling,PETALING JAYA SELATAN,PETALING JAYA SELATAN - TAMAN MEDAN,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,94.0,Susut,Underweight,TINGGI NORMAL
+34,Melayu,Islam,1,3,Normal,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.5,87.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,16.0,107.0,Berat badan normal,Normal,TINGGI NORMAL
+45,Kadazan,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,93.0,Susut,Normal,TINGGI NORMAL
+36,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.6,93.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+49,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.0,101.0,Susut,Normal,TINGGI NORMAL
+36,Melayu,Islam,2,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.5,115.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+49,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.5,104.0,Susut,Normal,TINGGI NORMAL
+31,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,109.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+36,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.0,96.0,Susut,Normal,PEMANTAUAN LANJUT
+33,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.5,115.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+36,Melayu,Islam,2,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.9,103.0,Berat badan normal,Normal,TINGGI NORMAL
+32,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.2,116.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+42,Melayu,Islam,1,2,Normal,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.0,104.0,Berat badan normal,Normal,TINGGI NORMAL
+34,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,99.0,Berat badan normal,Further assessment,PEMANTAUAN LANJUT
+33,Melayu,Islam,1,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,98.0,Berat badan normal,Further assessment,PEMANTAUAN LANJUT
+41,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,18.0,102.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+34,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.3,85.0,Berlebihan berat badan,Normal,TERBANTUT
+50,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.6,103.0,Berat badan normal,Normal,TINGGI NORMAL
+30,Melayu,Islam,2,2,Malpemakanan,Kuala Langat,KUALA LANGAT,KUALA LANGAT - TELUK DATUK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.5,86.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+50,Melayu,Islam,2,3,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.7,97.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+49,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.3,98.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,21.1,98.0,Obes,Further assessment,TINGGI NORMAL
+45,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.1,97.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,124.0,Susut teruk,Normal,PEMANTAUAN LANJUT
+44,Melayu,Islam,2,1,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.0,95.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+36,Orang Asli,Lain-lain,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,87.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+44,Melayu,Islam,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,16.9,103.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Orang Asli,Lain-lain,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.8,96.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+32,Orang Asli,Kristian,1,2,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.1,92.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+42,Orang Asli,Islam,1,4,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.5,96.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+49,Orang Asli,Islam,1,2,Malpemakanan,Petaling,PUCHONG,PUCHONG - SERI SERDANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.3,98.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+28,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.2,87.0,Berat badan normal,Normal,TINGGI NORMAL
+27,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.2,85.0,Berat badan normal,Normal,TINGGI NORMAL
+31,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.8,90.8,Obes,Further assessment,TINGGI NORMAL
+35,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.4,82.5,Risiko berlebihan berat badan,Normal,TERBANTUT TERUK
+31,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,16.1,94.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+37,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.3,88.5,Risiko berlebihan berat badan,Underweight,TERBANTUT TERUK
+31,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.6,85.6,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+46,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.8,91.5,Berat badan normal,Underweight,TERBANTUT
+44,Melayu,Islam,1,3,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.2,98.0,Berat badan normal,Normal,TINGGI NORMAL
+42,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,90.0,Berat badan normal,Underweight,TINGGI NORMAL
+32,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,83.0,Obes,Further assessment,TINGGI NORMAL
+34,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.0,95.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+35,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,89.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+23,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.5,81.0,Obes,Normal,TERBANTUT
+29,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.7,88.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+33,Melayu,Islam,2,1,Malpemakanan,Hulu Selangor,HULU SELANGOR,HULU SELANGOR - KUALA KUBU BAHARU,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.4,88.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+42,Melayu,Islam,2,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,94.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+25,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,18.0,86.0,Obes,Further assessment,TINGGI NORMAL
+27,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,79.0,Risiko berlebihan berat badan,Normal,TERBANTUT
+28,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,79.0,Risiko berlebihan berat badan,Underweight,TERBANTUT TERUK
+35,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.6,87.0,Berlebihan berat badan,Normal,TERBANTUT
+26,Lain-lain,Islam,2,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,80.0,Berlebihan berat badan,Normal,TINGGI NORMAL
+26,Melayu,Islam,1,1,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.0,83.0,Berlebihan berat badan,Normal,TERBANTUT
+24,Melayu,Islam,2,2,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,10.0,74.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+48,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - PERMATANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,100.0,Berat badan normal,Normal,TINGGI NORMAL
+23,Melayu,Islam,1,2,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.7,88.0,Berat badan normal,Normal,TINGGI NORMAL
+36,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.2,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+39,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,19.0,108.0,Risiko berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+41,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,18.0,106.0,Risiko berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+34,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,15.0,96.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+32,Melayu,Islam,1,2,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,11.0,85.0,Berat badan normal,Underweight,TERBANTUT
+30,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.9,92.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+41,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,17.3,104.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+38,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,18.0,108.0,Risiko berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+48,Melayu,Islam,1,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,22.0,106.0,Obes,Further assessment,TINGGI NORMAL
+49,Melayu,Islam,2,2,Malpemakanan,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,97.0,Berat badan normal,Normal,TERBANTUT
+45,Melayu,Islam,2,2,Normal,Kuala Selangor,TANJONG KARANG,TANJONG KARANG - SUNGAI BURONG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,13.0,97.0,Berat badan normal,Normal,TINGGI NORMAL
+6,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,,,,,
+41,Melayu,Islam,1,2,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,13.4,92.8,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+20,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,13.6,92.4,Risiko berlebihan berat badan,Further assessment,PEMANTAUAN LANJUT
+27,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,8.3,80.3,Susut,Normal,PEMANTAUAN LANJUT
+14,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,6.5,75.0,Susut teruk,Underweight,TINGGI NORMAL
+11,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,9.0,63.0,Obes,Normal,TERBANTUT TERUK
+25,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,8.5,78.0,Berat badan normal,Underweight,TINGGI NORMAL
+26,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,8.3,79.0,Susut,Normal,TINGGI NORMAL
+29,Melayu,Islam,2,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,11.0,92.0,Susut,Normal,TINGGI NORMAL
+25,Melayu,Islam,1,2,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,8.6,79.0,Susut,Normal,TINGGI NORMAL
+40,Melayu,Islam,1,0,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,13.0,95.0,Berat badan normal,Normal,TINGGI NORMAL
+16,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,13.0,90.0,Risiko berlebihan berat badan,Further assessment,TINGGI NORMAL
+28,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,10.3,88.0,Susut,Underweight,TERBANTUT
+27,Melayu,Islam,1,1,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.5,85.0,Berat badan normal,Normal,TINGGI NORMAL
+26,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,88.5,Berat badan normal,Normal,TINGGI NORMAL
+38,Melayu,Islam,2,1,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.6,86.0,Berlebihan berat badan,Normal,TERBANTUT
+45,Melayu,Islam,1,1,Malpemakanan,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,16.1,100.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+43,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,12.5,98.0,Susut,Normal,TINGGI NORMAL
+4,Melayu,Islam,2,2,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,10.0,80.0,Berat badan normal,Further assessment,PEMANTAUAN LANJUT
+9,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.5,70.4,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+6,Melayu,Islam,1,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,8.6,70.0,Berlebihan berat badan,Underweight,TERBANTUT TERUK
+24,Melayu,Islam,2,2,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,11.0,84.5,Berat badan normal,Normal,TINGGI NORMAL
+31,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.7,94.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+30,Melayu,Islam,1,1,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.0,79.0,Risiko berlebihan berat badan,Underweight,TERBANTUT TERUK
+26,Melayu,Islam,2,1,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,13.8,93.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+26,Melayu,Islam,2,1,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,13.2,94.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,2,2,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,13.2,94.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,2,2,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,10.0,90.0,Susut,Underweight,TINGGI NORMAL
+50,Melayu,Islam,1,2,Malpemakanan,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,20.0,95.0,Obes,Further assessment,TINGGI NORMAL
+28,Melayu,Islam,2,1,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,8.6,81.4,Susut,Normal,TINGGI NORMAL
+29,Melayu,Islam,2,0,Malpemakanan,Subang Jaya,PUCHONG,PUCHONG - KINRARA,TASKA Institusi,BANDAR,11.0,80.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+43,Melayu,Islam,1,1,Normal,Petaling,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,14.3,100.5,Berat badan normal,Normal,TINGGI NORMAL
+27,Melayu,Islam,1,3,Normal,Sabak Bernam,SUNGAI BESAR,SUNGAI BESAR - SUNGAI PANJANG,TASKA Institusi,LUAR BANDAR,11.6,89.0,Berat badan normal,Normal,TINGGI NORMAL
+43,Melayu,Islam,1,0,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - BATU TIGA,TASKA Institusi,BANDAR,12.8,94.0,Berat badan normal,Normal,TINGGI NORMAL
+23,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - BATU TIGA,TASKA Institusi,BANDAR,8.4,73.0,Berat badan normal,Underweight,TERBANTUT TERUK
+4,Melayu,Islam,2,1,Malpemakanan,Gombak,GOMBAK,GOMBAK - GOMBAK SETIA,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,13.0,80.0,Obes,Further assessment,PEMANTAUAN LANJUT
+58,Melayu,Islam,2,1,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - BATU TIGA,TASKA Institusi,BANDAR,15.1,106.0,Berat badan normal,Normal,TINGGI NORMAL
+49,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - BATU TIGA,TASKA Institusi,BANDAR,15.1,94.0,Berlebihan berat badan,Normal,TERBANTUT
+39,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - BATU TIGA,TASKA Institusi,BANDAR,17.0,97.0,Berlebihan berat badan,Further assessment,TINGGI NORMAL
+23,Melayu,Islam,2,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - BATU TIGA,TASKA Institusi,BANDAR,9.3,74.0,Berlebihan berat badan,Normal,TERBANTUT TERUK
+6,Melayu,Islam,2,0,Normal,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,8.6,76.5,Berat badan normal,Normal,TINGGI NORMAL
+4,Melayu,Islam,1,0,Malpemakanan,Shah Alam,SHAH ALAM,SHAH ALAM - KOTA ANGGERIK,TASKA Institusi,BANDAR,16.0,77.0,Obes,Further assessment,TINGGI NORMAL
+30,Melayu,Islam,1,3,Malpemakanan,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,14.1,95.0,Risiko berlebihan berat badan,Normal,TINGGI NORMAL
+40,Melayu,Islam,2,2,Normal,Klang,KOTA RAJA,KOTA RAJA - SRI MUDA,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,15.6,101.5,Berat badan normal,Normal,TINGGI NORMAL
+37,Melayu,Islam,1,2,Normal,Sabak Bernam,SABAK BERNAM,SABAK BERNAM - SUNGAI AIR TAWAR,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,12.4,94.2,Berat badan normal,Normal,TINGGI NORMAL
