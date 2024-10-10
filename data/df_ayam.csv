@@ -1,4 +1,4 @@
-date,premise_code,item_code,price,premise,address,premise_type,state,district
+date,premise_code,item_code,price,premise,address,premise_type,state,DAERAH
 2023-03-01,183,1,9.39,GIANT SUPERMARKET KELANA JAYA,"JALAN SS 6/3,PUSAT BANDAR KELANA JAYA,47301 PETALING JAYA, SELANGOR",Pasar Raya / Supermarket,Selangor,Petaling Jaya
 2023-03-01,330,1,7.99,TESCO SEKSYEN 13,"NO. 3,JALAN AEROBIK 13/43, SEKSYEN 13,40100 SHAH ALAM, SELANGOR",Hypermarket,Selangor,Petaling
 2023-03-01,3041,1,9.39,PASARAYA ECONSAVE KAPAR SDN BHD,"14-22,JALAN RAJA MOKHTAR PEKAN KAPAR,44220 KAPAR, SELANGOR",Pasar Raya / Supermarket,Selangor,Klang
