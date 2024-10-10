@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-selangor = pd.read_csv('https://github.com/fakhitah3/AIfocus/blob/main/data/selangor_data.csv')
+selangor = pd.read_csv('https://raw.githubusercontent.com/fakhitah3/AIfocus/refs/heads/main/data/selangor_data.csv')
 
 # Pie chart for 'STATUS PEMAKANAN'
 status_pemakanan_counts = selangor['STATUS PEMAKANAN'].value_counts()
