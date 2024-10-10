@@ -11,6 +11,7 @@ plt.figure(figsize=(8, 8))
 plt.pie(status_pemakanan_counts, labels=status_pemakanan_counts.index, autopct='%1.1f%%', startangle=90)
 plt.title('Status Pemakanan Distribution')
 plt.show()
+st.pyplot(plt.gcf())
 
 # Bar plot for 'STATUS PEMAKANAN' vs 'PENDAPATAN KELUARGA'
 plt.figure(figsize=(12, 6))
@@ -20,3 +21,4 @@ plt.xlabel('Pendapatan Keluarga')
 plt.ylabel('Count')
 plt.legend(title='Status Pemakanan')
 plt.show()
+st.pyplot(plt.gcf())
