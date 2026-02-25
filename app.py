@@ -1,28 +1,27 @@
 import streamlit as st
+import pandas as pd
+import plotly.express as px
 
-st.set_page_config(
-    page_title="Hello",
-    page_icon="👋",
-)
+# 1. Page Configuration
+st.set_page_config(page_title="Sales Dashboard", layout="wide")
 
-st.write("# Welcome to Streamlit! 👋")
+# 2. Dummy Data (You can replace this with a CSV later)
+data = {
+    'Month': ['Jan', 'Feb', 'Mar', 'Apr', 'May'],
+    'Revenue': [4500, 5200, 4800, 6100, 7000],
+    'Orders': [45, 52, 44, 60, 72]
+}
+df = pd.DataFrame(data)
 
-st.sidebar.success("Select a demo above.")
+# 3. Dashboard UI
+st.title("📊 Business Intelligence Dashboard")
+st.markdown("Welcome to your live dashboard hosted on **Render**.")
 
-st.markdown(
-    """
-    Streamlit is an open-source app framework built specifically for
-    Machine Learning and Data Science projects.
-    **👈 Select a demo from the sidebar** to see some examples
-    of what Streamlit can do!
-    ### Want to learn more?
-    - Check out [streamlit.io](https://streamlit.io)
-    - Jump into our [documentation](https://docs.streamlit.io)
-    - Ask a question in our [community
-        forums](https://discuss.streamlit.io)
-    ### See more complex demos
-    - Use a neural net to [analyze the Udacity Self-driving Car Image
-        Dataset](https://github.com/streamlit/demo-self-driving)
-    - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
-"""
-)
+# 4. Metrics
+col1, col2 = st.columns(2)
+col1.metric("Total Revenue", f"${df['Revenue'].sum():,}")
+col2.metric("Total Orders", df['Orders'].sum())
+
+# 5. Charts
+fig = px.line(df, x='Month', y='Revenue', title="Revenue Growth", markers=True)
+st.plotly_chart(fig, use_container_width=True)
